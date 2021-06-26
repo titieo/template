@@ -30,7 +30,7 @@ jobs:
               if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main'}}
               with:
                   branch: gh-pages
-                  folder: public
+                  folder: website
     lint:
         name: Lint
         runs-on: ubuntu-latest
