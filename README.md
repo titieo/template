@@ -140,7 +140,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-cokaps016 - [@cokaps016016](https://twitter.com/cokaps016016) - cokaps016@icloud.com
+cokaps016 - [@loctran016](https://twitter.com/loctran016) - cokaps016@icloud.com
 
 Project Link: [https://github.com/cokaps016/daisyui-boilerplate](https://github.com/cokaps016/daisyui-boilerplate)
 

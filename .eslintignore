@@ -3,9 +3,6 @@ node_modules/
 yarn.lock
 favicon.ico
 public
-.husky/
-.webpack/
-.webpack
 # Minified JS Library
 ######################
 src/lib
