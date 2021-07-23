@@ -22,3 +22,7 @@ src/lib
 *.min.js
 reset.css
 diagnostics.css
+
+# Minified CSS Library
+######################
+src/css/vendors/**/*.min.css
