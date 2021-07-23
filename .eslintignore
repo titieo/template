@@ -7,3 +7,5 @@ public
 ######################
 src/lib
 *.min.js
+reset.css
+diagnostics.css

@@ -15,11 +15,10 @@ babel.config.json
 bs-config.js
 *.yml
 *.json
-!main.js
-!preload.js
-.webpack
-.webpack/
+
 # Minified JS Library
 ######################
 src/lib
 *.min.js
+reset.css
+diagnostics.css

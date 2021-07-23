@@ -11,4 +11,7 @@ export default defineConfig({
     build: {
         outDir: '../website/',
     },
+    server: {
+        open: true,
+    },
 });
