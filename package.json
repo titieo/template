@@ -37,7 +37,7 @@
         "> 5% in VN"
     ],
     "dependencies": {
-        "@fortawesome/fontawesome-free": "^5.15.3"
+        "@fortawesome/fontawesome-free": "^5.15.4"
     },
     "devDependencies": {
         "@commitlint/cli": "^12.1.4",
