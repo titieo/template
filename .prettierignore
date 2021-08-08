@@ -1,28 +1,10 @@
 .yarn/
 .husky/
-.DS_Store
 .yarnrc.yml
-!public/favicon.ico
-!public/icon/
-!public/**/*.html
 public/
-.eslintrc.js
-.prettierrc.js
-.stylelintrc.js
 .travis.yml
-.yarnrc.yml
-babel.config.json
-bs-config.js
-*.yml
-*.json
 
-# Minified JS Library
-######################
-src/lib
+##############################
+# Minified files
 *.min.js
-reset.css
-diagnostics.css
-
-# Minified CSS Library
-######################
-src/css/vendors/**/*.min.css
+*.min.css

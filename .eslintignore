@@ -1,8 +1,5 @@
-node_modules/
-.DS_Store
-yarn.lock
-favicon.ico
 public
+
 # Minified JS Library
 ######################
 src/lib
@@ -10,4 +7,4 @@ src/lib
 
 # Minified CSS Library
 ######################
-src/css/vendors/**/*.min.css
+*.min.css

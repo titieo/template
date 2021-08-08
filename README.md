@@ -1,6 +1,6 @@
 <!--
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** loctran0166, daisyui-boilerplate, twitter_handle,loctran01616@icloud.com, Frontend Template, project_description
+*** loctran016, template, twitter_handle,loctran01616@icloud.com, Frontend Template, project_description
 -->
 
 <!-- PROJECT SHIELDS -->
@@ -23,7 +23,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/loctran0166/daisyui-boilerplate">
+  <a href="https://github.com/loctran016/template">
     <img src="logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
@@ -32,9 +32,9 @@
   <p align="center">
     Frontend Template
     <br />
-    <a href="https://github.com/loctran0166/daisyui-boilerplate/issues">daisyui-boilerplatert Bug</a>
+    <a href="https://github.com/loctran016/template/issues">templatert Bug</a>
     ·
-    <a href="https://github.com/loctran0166/daisyui-boilerplate/issues">Request Feature</a>
+    <a href="https://github.com/loctran016/template/issues">Request Feature</a>
   </p>
 </p>
 
@@ -96,10 +96,10 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Clone the daisyui-boilerplate
+1. Clone the template
 
     ```sh
-    git clone https://github.com/loctran0166/daisyui-boilerplate.git
+    git clone https://github.com/loctran016/template.git
     ```
 
 2. Install NPM packages
@@ -116,7 +116,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 ## Roadmap
 
-See the [open issues](https://github.com/loctran0166/daisyui-boilerplate/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/loctran016/template/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -140,9 +140,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-loctran0166 - [@loctran016](https://twitter.com/loctran016) -loctran01616@icloud.com
+loctran016 - [@loctran016](https://twitter.com/loctran016) -loctran01616@icloud.com
 
-Project Link: [https://github.com/loctran0166/daisyui-boilerplate](https://github.comloctran01616/daisyui-boilerplate)
+Project Link: [https://github.com/loctran016/template](https://github.comloctran01616/template)
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -153,15 +153,15 @@ Project Link: [https://github.com/loctran0166/daisyui-boilerplate](https://githu
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/loctran0166/daisyui-boilerplate.svg?style=for-the-badge
-[contributors-url]: https://github.com/loctran0166/daisyui-boilerplate/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/loctran0166/daisyui-boilerplate.svg?style=for-the-badge
-[forks-url]: https://github.com/loctran0166/daisyui-boilerplate/network/members
-[stars-shield]: https://img.shields.io/github/stars/loctran0166/daisyui-boilerplate.svg?style=for-the-badge
-[stars-url]: https://github.com/loctran0166/daisyui-boilerplate/stargazers
-[issues-shield]: https://img.shields.io/github/issues/loctran0166/daisyui-boilerplate.svg?style=for-the-badge
-[issues-url]: https://github.com/loctran0166/daisyui-boilerplate/issues
-[license-shield]: https://img.shields.io/github/license/loctran0166/daisyui-boilerplate.svg?style=for-the-badge
-[license-url]: https://github.com/loctran0166/daisyui-boilerplate/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/loctran016/template.svg?style=for-the-badge
+[contributors-url]: https://github.com/loctran016/template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/loctran016/template.svg?style=for-the-badge
+[forks-url]: https://github.com/loctran016/template/network/members
+[stars-shield]: https://img.shields.io/github/stars/loctran016/template.svg?style=for-the-badge
+[stars-url]: https://github.com/loctran016/template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/loctran016/template.svg?style=for-the-badge
+[issues-url]: https://github.com/loctran016/template/issues
+[license-shield]: https://img.shields.io/github/license/loctran016/template.svg?style=for-the-badge
+[license-url]: https://github.com/loctran016/template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/loctran0166
+[linkedin-url]: https://linkedin.com/in/loctran016

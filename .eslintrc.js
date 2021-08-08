@@ -1,16 +1,12 @@
 module.exports = {
     env: {
         browser: true,
-        commonjs: true,
         es2021: true,
-        node: true,
     },
-    extends: ['google'],
+    extends: ['standard', 'prettier'],
     parserOptions: {
         ecmaVersion: 12,
+        sourceType: 'module',
     },
-    plugins: ['html', '@babel', 'prettier'],
-    rules: {
-        quotes: ['error', 'single'],
-    },
+    rules: {'import/no-duplicates':0,},
 };
