@@ -24,7 +24,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/loctran016/template">
-    <img src="logo.jpg" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Frontend Template</h3>
@@ -68,15 +68,15 @@
 
 ## About The Project
 
-![Product Name Screen Shot](logo.jpg)
+![Product Name Screen Shot](logo.png)
 
 ### Built With
 
--   [Babel](https://babeljs.io/)
--   [Eslint](https://eslint.org/)
--   [Stylelint](https://stylelint.io/)
--   [Webpack](https://webpack.js.org/)
--   [Prettier](https://prettier.io/)
+- [Babel](https://babeljs.io/)
+- [Eslint](https://eslint.org/)
+- [Stylelint](https://stylelint.io/)
+- [Webpack](https://webpack.js.org/)
+- [Prettier](https://prettier.io/)
 
 <!-- GETTING STARTED -->
 
@@ -88,25 +88,25 @@ To get a local copy up and running follow these simple steps.
 
 This is an example of how to list things you need to use the software and how to install them.
 
--   npm
+- npm
 
-    ```sh
-    npm install yarn -g
-    ```
+  ```sh
+  npm install yarn -g
+  ```
 
 ### Installation
 
 1. Clone the template
 
-    ```sh
-    git clone https://github.com/loctran016/template.git
-    ```
+   ```sh
+   git clone https://github.com/loctran016/template.git
+   ```
 
 2. Install NPM packages
 
-    ```sh
-    yarn install
-    ```
+   ```sh
+   yarn install
+   ```
 
 <!-- USAGE EXAMPLES -->
 
@@ -148,7 +148,7 @@ Project Link: [https://github.com/loctran016/template](https://github.comloctran
 
 ## Acknowledgements
 
--   [Best Readme Template](https://github.com/othneildrew/Best-README-Template)
+- [Best Readme Template](https://github.com/othneildrew/Best-README-Template)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
