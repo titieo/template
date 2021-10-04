@@ -47,7 +47,7 @@
     "@sveltejs/vite-plugin-svelte": "^1.0.0-next.24",
     "@vitejs/plugin-legacy": "^1.5.3",
     "autoprefixer": "^10.3.4",
-    "concurrently": "^6.2.1",
+    "concurrently": "^6.3.0",
     "cssnano": "^5.0.8",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
