@@ -42,7 +42,7 @@
   ],
   "devDependencies": {
     "@commitlint/cli": "^13.1.0",
-    "@commitlint/config-conventional": "^13.1.0",
+    "@commitlint/config-conventional": "^14.1.0",
     "@iconify/json": "^1.1.403",
     "@sveltejs/vite-plugin-svelte": "^1.0.0-next.24",
     "@vitejs/plugin-legacy": "^1.5.3",
